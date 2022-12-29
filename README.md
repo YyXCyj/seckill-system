@@ -25,3 +25,11 @@ Redis分布式锁
 >>登陆图
 
 ![登陆图](https://github.com/YyXCyj/seckill-system/blob/master/image/1.png)
+
+>>秒杀商量列表
+
+![秒杀商量列表](https://github.com/YyXCyj/seckill-system/blob/master/image/1.png)
+
+>>秒杀详情列表
+
+![秒杀详情列表](https://github.com/YyXCyj/seckill-system/blob/master/image/1.png)
