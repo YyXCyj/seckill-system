@@ -28,8 +28,8 @@ Redis分布式锁
 
 >>秒杀商量列表
 
-![秒杀商量列表](https://github.com/YyXCyj/seckill-system/blob/master/image/1.png)
+![秒杀商量列表](https://github.com/YyXCyj/seckill-system/blob/master/image/2.png)
 
 >>秒杀详情列表
 
-![秒杀详情列表](https://github.com/YyXCyj/seckill-system/blob/master/image/1.png)
+![秒杀详情列表](https://github.com/YyXCyj/seckill-system/blob/master/image/3.png)
