@@ -6,13 +6,9 @@
 软件架构
 
 技术	版本	说明
-Spring Boot	2.6.4	
-MySQL	8	
-MyBatis Plus	3.5.1	
-Swagger2	2.9.2	Swagger-models2.9.2版本报错，使用的是1.5.22
-Kinfe4j	2.0.9	感觉比Swagger UI漂亮的一个工具，访问地址是ip:端口/doc.html
-Spring Boot Redis		
+Spring Boot	MySQL	MyBatis Plus	Swagger2 Kinfe4j	Spring Boot Redis		
 
+秒杀系统优化：
 页面缓存
 页面静态化
 短时间内，下单多次-----采用唯一的id，进行抢购时要验证下id
@@ -22,5 +18,5 @@ Spring Boot Redis
 请求进入队列  异步下单
 客户端轮询
 Redis分布式锁
-接口优化  ： 初始化时 把库存加载到redis中
+接口优化：初始化时 把库存加载到redis中
 接口限流
