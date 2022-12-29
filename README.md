@@ -20,3 +20,8 @@
 Redis分布式锁
 接口优化：初始化时 把库存加载到redis中
 接口限流
+
+实战截图:
+>>登陆图
+
+![登陆图](https://github.com/YyXCyj/seckill-system/blob/master/image/1.png)
